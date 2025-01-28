@@ -1,18 +1,22 @@
 h1
 {
-font-weight: bold;}
-• gallery display: flex; flex-wrap: wrap;
-• image-card{ padding: 2%; 
-width: 30%; 
+font-weight: bold;
+}
+• gallery display: flex; 
+flex-wrap: wrap;
+• image-card{ 
+  padding: 2;
+width: 30;
 flex-grow: 1; 
 display: flex;
 }
-• infof width: 95%;
+• info{ width: 95;
 align-self: center;
 
 • gallery img {
-border-style: solid; border-radius: 10px;
-width: 95%;
+border-style: 
+  solid; border-radius: 10;
+width: 95;
 }
 * {
 font-family: inherit text-align: center;
@@ -21,13 +25,17 @@ body{
 background-color:deeppink;
 ｝
 h1{
-font-size: 30px; background-color: hotpink; padding: 18px;
-border-style: solid; border-radius: 10px;
+font-size: 30;
+  background-color: hotpink; 
+  padding: 18;
+border-style: solid; 
+  border-radius: 10;
 h2 {
-margin: 0px;
+margin: 0;
 }
-•main-content › img { 
-border-style: solid; border-radius: 20px;
-width: 90%;
-margin-bottom: 20px;
+•main-content img { 
+border-style:solid; 
+  border-radius: 20;
+width: 90;
+margin-bottom: 20;
 }
